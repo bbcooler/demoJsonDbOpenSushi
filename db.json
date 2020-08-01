@@ -1,0 +1,10 @@
+{
+  "data": {
+    "result": true,
+    "prize": "精美小禮物"
+  },
+  "data2": {
+    "result": false,
+    "prize": ""
+  }
+}
